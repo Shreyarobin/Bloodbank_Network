@@ -1,0 +1,15 @@
+# Private keys and certificates
+*.pem
+*.key
+*.crt
+*.csr
+
+# Database
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Received files
+received_files/
